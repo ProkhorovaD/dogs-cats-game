@@ -116,4 +116,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
 }
+.restart {
+  font-family: "Handjet", sans-serif;
+}
 </style>

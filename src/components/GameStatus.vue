@@ -10,9 +10,9 @@ defineProps(['text'])
 .status {
   margin: 0;
   padding: 12px 24px;
-  background: rgba(255, 255, 255, 0.85);
+  background: #ed1afc;
   border-radius: 8px;
   font-size: 24px;
-  color: #222;
+  color: white;
 }
 </style>

@@ -9,8 +9,8 @@ defineEmits(['restart'])
 <style scoped>
 .restart {
   padding: 12px 28px;
-  font-size: 18px;
-  border: 2px solid #333;
+  font-size: 32px;
+  border: 0px;
   color: white;
   border-radius: 8px;
   background: #ed1afc;

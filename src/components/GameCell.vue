@@ -51,7 +51,7 @@ defineEmits(['click'])
 }
 
 .cell__image--dog {
-  width: 95%;
-  height: 95%;
+  width: 150%;
+  height: 150%;
 }
 </style>

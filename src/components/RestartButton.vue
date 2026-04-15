@@ -11,13 +11,14 @@ defineEmits(['restart'])
   padding: 12px 28px;
   font-size: 18px;
   border: 2px solid #333;
+  color: white;
   border-radius: 8px;
-  background: #ffd166;
+  background: #ed1afc;
   cursor: pointer;
   transition: background 0.15s ease;
 }
 
 .restart:hover {
-  background: #ffc233;
+  background: #cf33ff;
 }
 </style>

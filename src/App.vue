@@ -99,7 +99,9 @@ function resetGame() {
 </template>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght,ELSH@100..900,2&display=swap');
 body {
+  font-family: "Handjet", sans-serif;
   margin: 0;
   padding: 0;
 }
